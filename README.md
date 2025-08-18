@@ -1,5 +1,35 @@
 ## Hello there 👋
 
+## Hear ye, hear ye!
+
+It is I, Tea! (she/her)
+
+🎭 Current Quests (working on)
+-
+
+📚 Tomes of Learning (learning)
+- c++
+- AWS Cloud
+
+🎓 Path of Mastery (degrees in progress)
+- Cloud Management
+- Computer Programming and Development
+- Arcane Necromancy
+
+❔ Riddles to Pose Me (ask me about)
+- Python, Java, Cloud
+- The best chocolate chip cookie recipe
+
+🪶 Send a Messenger (contact)
+email: isleym9447@gmail
+
+
+
+
+
+
+
+
 <!--
 **isleym9447/isleym9447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +44,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
