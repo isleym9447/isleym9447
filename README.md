@@ -9,7 +9,7 @@ Behold...
 🎭 Current Quests (working on)
 - CYOA DnD game in Python
 - Linux Ansible Playbook
-- Romancing Astarion
+
 
 📚 Tomes of Learning (learning)
 - c++
