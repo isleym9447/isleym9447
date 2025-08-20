@@ -16,6 +16,7 @@ Behold...
 📚 Tomes of Learning (learning)
 - c++
 - AWS Cloud
+- Linux Ansible
 
 🎓 Path of Mastery (degrees in progress)
 - Cloud Management
@@ -30,6 +31,17 @@ Behold...
 - email: isleym9447@gmail
 - discord: peachteaos
 
+About me! 
+
+Now for the offical stuffs, 
+
+I’m a last year IT student at Fayetteville Technical Community College. 
+Im from California and have a passion for 
+creative storytelling, whether through D&D, 
+larping, cosplay, or reading. Outside of that, 
+I enjoy baking, spending time at the gym, 
+and finding balance between creativity 
+and personal growth.
 
 
 
