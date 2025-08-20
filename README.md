@@ -3,6 +3,7 @@
 ## Hear ye, hear ye!
 
 It is I, Tea! (she/her)
+📍 Sorcerous Sundries, Baldur's Gate, Faerûn
 
 Behold...
 
@@ -25,7 +26,8 @@ Behold...
 - The best chocolate chip cookie recipe
 
 🪶 Send a Messenger (contact)
-email: isleym9447@gmail
+- email: isleym9447@gmail
+- discord: peachteaos
 
 
 
