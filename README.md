@@ -3,6 +3,7 @@
 ## Hear ye, hear ye!
 
 It is I, Tea! (she/her)
+
 📍 Sorcerous Sundries, Baldur's Gate, Faerûn
 
 Behold...
