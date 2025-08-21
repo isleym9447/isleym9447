@@ -35,13 +35,13 @@ About me!
 
 Now for the offical stuffs, 
 
-I’m a last year IT student at Fayetteville Technical Community College. 
-Im from California and have a passion for 
-creative storytelling, whether through D&D, 
-larping, cosplay, or reading. Outside of that, 
-I enjoy baking, spending time at the gym, 
-and finding balance between creativity 
-and personal growth.
+👋 I’m a final-year IT student at Fayetteville Technical Community College, originally from California. 
+I love storytelling through D&D, LARPing, and cosplay, and in my free time you’ll find me gaming, baking, or at the gym. 
+
+Technically, I work with Python, Java, HTML, Linux, cloud tools, and networking.
+Im always looking for new ways to blend creativity with tech!
+
+#womeninstem #girlswhocode
 
 
 
