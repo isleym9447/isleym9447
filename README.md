@@ -28,7 +28,7 @@ Behold...
 - The best chocolate chip cookie recipe
 
 🪶 Send a Messenger (contact)
-- email: isleym9447@gmail.com
+- email: isleym9447@student.faytechcc.edu
 - github: isleym9447
 - discord: peachteaos
 
