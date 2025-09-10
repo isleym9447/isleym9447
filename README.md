@@ -4,7 +4,7 @@
 
 It is I, Tea! (she/her)
 
-📍 Sorcerous Sundries, Baldur's Gate, Faerûn
+📍 Sorcerous Sundries, Baldur's Gate, Sword Coast, Faerûn
 
 Behold...
 
@@ -14,7 +14,7 @@ Behold...
 
 
 📚 Tomes of Learning (learning)
-- c++
+- C++
 - AWS Cloud
 - Linux Ansible
 
