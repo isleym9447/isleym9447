@@ -9,14 +9,15 @@ It is I, Tea! (she/her)
 Behold...
 
 🎭 Current Quests (working on)
-- CYOA DnD game in Python
-- Linux Ansible Playbook
+- *Neon Loop* A Cyberpunk CYOA game in C++ and SFML
+- tbd
 
 
 📚 Tomes of Learning (learning)
-- C++
+- C++ + SFML
 - AWS Cloud
-- Linux Ansible
+- CCSP
+
 
 🎓 Path of Mastery (degrees in progress)
 - Cloud Management
@@ -24,7 +25,7 @@ Behold...
 - Arcane Necromancy
 
 ❔ Riddles to Pose Me (ask me about)
-- Python, Java, Cloud
+- Python, Java, Cloud, C++
 - The best chocolate chip cookie recipe
 
 🪶 Send a Messenger (contact)
@@ -36,7 +37,7 @@ About me!
 
 Now for the offical stuffs, 
 
-👋 I’m a final-year IT student at Fayetteville Technical Community College, originally from California. Technologically, I work with Python, Java, HTML, Linux, cloud tools, and networking.
+👋 I’m a final-year IT student at Fayetteville Technical Community College, originally from California. Technologically, I work with Python, Java, C++, HTML, Linux, cloud tools, and networking.
 I'm always looking for new ways to blend creativity with tech!
 
 
