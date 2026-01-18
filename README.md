@@ -8,40 +8,43 @@ It is I, Tea! (she/her)
 
 Behold...
 
-🎭 Current Quests (working on)
+### Current Quests (working on) ###
+- Cloud Managment Capstone (CCSP and GCA) 
+- Programming Captone project
 - *Neon Loop* A Cyberpunk CYOA game in C++ and SFML
-- tbd
+- ᶜʸᵇᵉʳᵖᵘⁿᵏ ²⁰⁷⁷ ᴱᵛᵉˡʸⁿ ᴾᵃʳᵏᵉʳ ᶜᵒˢᵖˡᵃʸ
+  
 
-
-📚 Tomes of Learning (learning)
+### Tomes of Learning (learning) ###
 - C++ + SFML
 - AWS Cloud
-- CCSP
+- CCSP (Certified Cloud Sercurity Professional)
+- GCA (Google Cloud Engineer)
 
 
-🎓 Path of Mastery (degrees in progress)
+### Path of Mastery (degrees in progress) ###
 - Cloud Management
 - Computer Programming and Development
 - Arcane Necromancy
 
-❔ Riddles to Pose Me (ask me about)
+### Riddles to Pose Me (ask me about) ###
 - Python, Java, Cloud, C++
 - The best chocolate chip cookie recipe
 
-🪶 Send a Messenger (contact)
+### Send a Messenger (contact) ###
 - email: isleym9447@student.faytechcc.edu
 - github: isleym9447
 - discord: peachteaos
 
 About me! 
 
-Now for the offical stuffs, 
+Now for the official stuff, 
 
-👋 I’m a final-year IT student at Fayetteville Technical Community College, originally from California. Technologically, I work with Python, Java, C++, HTML, Linux, cloud tools, and networking.
+👋 I’m a final-semester IT student at Fayetteville Technical Community College, originally from California. Technologically, I work with Python, Java, C++, HTML, Linux, cloud tools, and networking.
 I'm always looking for new ways to blend creativity with tech!
 
 
-I love storytelling through LARPing, cosplay, and TTRPGs. In my free time you’ll find me gaming, creating a cosplay, baking, or at the gym. 
+I love storytelling through LARPing, cosplay, and TTRPGs. In my free time, you’ll find me gaming, creating a cosplay, baking, rollerskating, or at the gym. 
 
 
 ## #womeninstem #girlswhocode ##
