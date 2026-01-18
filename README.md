@@ -1,8 +1,7 @@
 ## Hello there 👋
 
-## Hear ye, hear ye!
 
-It is I, Tea! (she/her)
+It is I, Mattea! (she/her)
 
 📍 Sorcerous Sundries, Baldur's Gate, Sword Coast, Faerûn
 
