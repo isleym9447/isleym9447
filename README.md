@@ -11,7 +11,7 @@ Behold...
 - Cloud Managment Capstone (CCSP and GCA) 
 - Programming Captone project
 - *Neon Loop* A Cyberpunk CYOA game in C++ and SFML
-- ᶜʸᵇᵉʳᵖᵘⁿᵏ ²⁰⁷⁷ ᴱᵛᵉˡʸⁿ ᴾᵃʳᵏᵉʳ ᶜᵒˢᵖˡᵃʸ
+
   
 
 ### Tomes of Learning (learning) ###
@@ -27,7 +27,8 @@ Behold...
 - Arcane Necromancy
 
 ### Riddles to Pose Me (ask me about) ###
-- Python, Java, Cloud, C++
+- Python, Java, C++
+- AWS, Azure
 - The best chocolate chip cookie recipe
 
 ### Send a Messenger (contact) ###
