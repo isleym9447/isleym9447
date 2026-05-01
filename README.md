@@ -3,7 +3,7 @@
 
 It is I, Mattea! (she/her)
 
-[My resume!](Mattea Isley Resume 2026.docx)
+[My resume!](Mattea%20Isley%20Resume%202026.docx)
 
 📍 Sorcerous Sundries, Baldur's Gate, Sword Coast, Faerûn
 
