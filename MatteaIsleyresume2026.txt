@@ -2,6 +2,8 @@ Mattea Isley
 Garden Grove, CA 92843 
 714-326-9317  
 matteanisley@gmail.com
+Github: github.com/isleym9447
+Linkedin:.linkedin.com/in/mattea-isley-58187b346  
 
 Professional Experience
 
@@ -12,34 +14,33 @@ November 2022 - August 2023 | Fayetteville, North Carolina
 - Managed POS system operations, handling both cash and card transactions with accuracy
 - Developed expert product knowledge in t-shirts, pop culture merchandise, and body jewelry
 - Led sales floor operations, including merchandise recovery, shipment processing, and inventory management
+- Trained and assisted team members while maintaining operational standards 
 
 Convention Manager & Associate | Boba Rally Trading Cards and Collectables
 January 2022 - July 2022 | Anaheim, California (with travel)
 
 - Managed convention operations across multiple U.S. locations, leading and working in collaboration with staff teams during multi-week events
-- Contributed to successful launch of new mall location, including store setup and merchandising
+- Assisted with setup and launch of a new retail location including merchandising and inventory organization 
 - Executed inventory management, merchandising strategies, and sales operations
 - Processed transactions and maintained register accuracy while promoting customer engagement
 - Specialized in anime, pop culture merchandise, trading card games (Pokémon, Yu-Gi-Oh, MTG), and collectibles
-- Combined work ethic with wearing cosplay to drive sales
-
-Food and Beverage Cashier | The Walt Disney Company
-October 2018 - February 2020 | Disneyland Resort
-
-- Operated POS systems while maintaining Disney's high service standards
-- Prepared food items, managed inventory, and ensured guest satisfaction
-- Utilized radio communication systems for team coordination
-- Selected as a team member for the historic opening of Star Wars: Galaxy's Edge (May 2019)
-- Participated in test and adjust operations for new land launch
-- Excelled in upholding the Disney standards of safety, courtesy, show, efficiency and inclusion.
 Education
 
 Fayetteville Technical Community College
 October 2023 - May 2026 | Fayetteville, North Carolina
 
-- Associate Degree in Information Technology Cloud Management (In Progress)
-- Associate Degree in Information Technology Computer Programming & Development (In Progress) 
-- Various certifications in Information Technology (In Progress)
+Associate Degree – Information Technology: Cloud Management
+Associate Degree – Information Technology: Computer Programming & Development 
+Relevant Coursework & Technical Experience:
+Software development using Python, Java, C++, and HTML/CSS
+Cloud platform experience with AWS, Microsoft Azure, and Google Cloud Services (GWS)
+Application development and debugging using VS Code, GitHub, and GitHub Codespaces
+Experience with source control, version management, and collaborative development workflows
+Virtualization and networking exposure using VMware and Cisco Packet Tracer
+Extensive experience utilizing AI/LLM tools including prompt engineering, AI-assisted debugging, workflow automation, and Claude Code
+Experience troubleshooting, debugging, and testing software applications
+Collaborative project development in team-based technical environments
+
 
 Goldenwest College
 Fall 2020 - Spring 2022 | Huntington Beach, California
@@ -52,13 +53,49 @@ September 2014 - June 2018 | Garden Grove, California
 - High School Diploma
 - Principal's Honor Roll (2014-2018)
 
-Skills
-- Customer Service Excellence
-- Team Leadership
-- POS Systems Management
-- Inventory Control
-- Event Management
-- Problem-Solving
-- Cross-Functional Collaboration
-- Cash Handling
-- Merchandising
+
+
+Technical Projects
+BAG — Financial Aid & Semester Budgeting Application
+Capstone Project | Fayetteville Technical Community College
+Co-developed a semester-based financial aid budgeting application designed to help college students manage educational funds over the duration of a semester
+Assisted in developing core application functionality using Python, Flask, SQLite, HTML, CSS, and JavaScript
+Designed and developed profile management and budgeting-related features
+Created onboarding and introductory interface pages focused on user accessibility and usability
+Worked extensively within VS Code, GitHub, and GitHub Codespaces for development and collaboration
+Participated in debugging, testing, UI refinement, and feature implementation
+Collaborated with both programming and graphic design team members during project development
+Created and managed the project’s GitHub organization and GitHub Pages site
+Contributed to responsive front-end design and user-focused application improvements
+Technical Skills
+
+Programming & Development:
+Python, Java, C++, HTML/CSS
+Flask
+SQLite
+Git & GitHub
+GitHub Codespaces
+VS Code
+
+Cloud & Systems:
+AWS, Microsoft Azure, Google Cloud Services (GWS)
+VMware
+Cisco Packet Tracer
+Linux Fundamentals
+
+Technical Skills:
+Software Debugging & Troubleshooting
+Prompt Engineering
+AI/LLM Workflow Integration
+Version Control
+UI/UX Collaboration
+Application Testing
+Technical Problem Solving
+
+Professional Skills:
+Team Collaboration
+Leadership
+Customer Service
+Inventory Management
+Fast-Paced Work Environments
+Event Operations
