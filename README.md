@@ -17,7 +17,7 @@ Behold...
   
 
 ### Tomes of Learning (learning) ###
-- C++ + SFML
+- C++ SFML
 - AWS Cloud
 - CCSP (Certified Cloud Sercurity Professional)
 - GCA (Google Cloud Engineer)
