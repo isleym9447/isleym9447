@@ -3,34 +3,43 @@
 
 It is I, Mattea! (she/her)
 
+🎓 Recent IT Graduate | ☁️ Cloud Computing | 💻 Software Development
+
 [My resume!](MatteaIsleyresume2026.txt)
 
-📍 Sorcerous Sundries, Baldur's Gate, Sword Coast, Faerûn
+📍 Sorcerous Sundries, Baldur's Gate, Sword Coast, Faerûn (Actually based in California 🌴)
 
 Behold...
 
 ### Current Quests (working on) ###
-- Cloud Managment Capstone (CCSP and GCA) 
-- Programming Captone project
-- *Neon Loop* A Cyberpunk CYOA game in C++ and SFML
+- Building and expanding my personal programming portfolio
+- Developing Neon Loop — a Cyberpunk CYOA game built with C++ and SFML
+- Exploring cloud architecture, deployment, and automation
+- Learning new ways to integrate AI/LLM tools into development workflows
 
+### Completed Quests ###
+🎓 A.A.S. Cloud Management
+🎓 A.A.S. Computer Programming & Development
+☁️ Cloud Management Capstone
+💻 Programming Capstone
+🔮 Arcane Necromancy (unaccredited)
   
-
 ### Tomes of Learning (learning) ###
-- C++ SFML
-- AWS Cloud
-- CCSP (Certified Cloud Sercurity Professional)
-- GCA (Google Cloud Engineer)
+Currently expanding my knowledge of:
 
+- C++ & SFML
+- AWS, Microsoft Azure & Google Cloud
+- Cloud architecture and administration
+- Linux
+- Networking
+- AI-assisted development & automation
 
-### Path of Mastery (degrees in progress) ###
-- Cloud Management
-- Computer Programming and Development
-- Arcane Necromancy
 
 ### Riddles to Pose Me (ask me about) ###
-- Python, Java, C++
-- AWS, Azure
+- Python, Java, or C++
+- Cloud computing
+- AWS, Azure, or Google Cloud
+- AI-assisted development
 - The best chocolate chip cookie recipe
 
 ### Send a Messenger (contact) ###
@@ -40,13 +49,15 @@ Behold...
 
 About me! 
 
-Now for the official stuff, 
+I'm a recent graduate of Fayetteville Technical Community College with associate degrees in Cloud Management and Computer Programming & Development.
 
-👋 I’m a final-semester IT student at Fayetteville Technical Community College, originally from California. Technologically, I work with Python, Java, C++, HTML, Linux, cloud tools, and networking.
-I'm always looking for new ways to blend creativity with tech!
+My technical experience spans software development, cloud computing, Linux, networking, virtualization, and AI-assisted development. I've worked with Python, Java, C++, HTML/CSS, AWS, Microsoft Azure, Google Cloud, VMware, Cisco Packet Tracer, Git, GitHub, and VS Code.
 
+I'm especially interested in opportunities where I can continue building my skills in IT, cloud technology, software development, technical support, and emerging technologies.
 
-I love storytelling through LARPing, cosplay, and TTRPGs. In my free time, you’ll find me gaming, creating a cosplay, baking, rollerskating, or at the gym. 
+Outside of tech, I love storytelling through LARPing, cosplay, and TTRPGs. When I'm not at my computer, you'll probably find me gaming, working on a cosplay, baking, rollerskating, or at the gym.
+
+I'm always looking for new ways to blend creativity with technology — preferably without accidentally summoning anything from the Underdark.
 
 
 ## #womeninstem #girlswhocode ##
